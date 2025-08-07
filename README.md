@@ -10,7 +10,5 @@
 
 ```bash
 git clone https://github.com/RKD-TEAM/redesigned-tribble
-```bash
 cd redesigned-tribble
-```bash
 python ip.py
