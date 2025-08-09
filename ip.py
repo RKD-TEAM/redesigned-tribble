@@ -3,9 +3,6 @@ import sys#for Animation
 import time#for Time
 import requests
 import shutil
-os.system("pkg update && pkg upgrade -y")
-os.system("pkg install git ")
-os.system("pkg install python ")
 os.system("clear")
 
 #Type With Animation
