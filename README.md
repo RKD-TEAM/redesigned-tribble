@@ -7,7 +7,12 @@
 ---
 
 ## 🔧 Command to Run
-
+```bash
+pkg update && pkg upgrade -y
+```bash
+pkg install git
+```bash
+pkg install python 
 ```bash
 git clone https://github.com/RKD-TEAM/redesigned-tribble
 
