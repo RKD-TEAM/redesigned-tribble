@@ -7,8 +7,10 @@
 ---
 
 ## 🔧 Command to Run
+
 ```bash
 pkg update && pkg upgrade -y
+
 ```bash
 pkg install git
 ```bash
