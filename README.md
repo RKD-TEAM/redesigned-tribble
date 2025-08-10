@@ -1,25 +1,16 @@
-# Command:-
-# IP Location Checker Tool
+# Disclaimer❗❗
 
 **This tool is for educational purposes only.  
 ❗Don't use for any illegal activities.**
 
 ---
 
-## 🔧 Command to Run
+## 🔧 Command:-
 
 ```bash
 pkg update && pkg upgrade -y
-
-```bash
-pkg install git
-```bash
-pkg install python 
-```bash
+pkg install git -y
+pkg install python -y
 git clone https://github.com/RKD-TEAM/redesigned-tribble
-
-```bash
 cd redesigned-tribble
-
-```bash
 python ip.py
