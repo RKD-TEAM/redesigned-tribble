@@ -62,6 +62,7 @@ print(" Owner     : RKD TEAM")
 print(" Github    : RKD-TEAM")
 print(" Facebook  : RKD TEAM")
 print(" Tool Name : ip Location")
+print("\033[32m" + "=" * columns + "\033[1;96m")
 print("\033[31m This Tool For Educational Purposes Only. So Don't Use For Any Crime")
 print("\033[32m" + "=" * columns + "\033[0m")
 
